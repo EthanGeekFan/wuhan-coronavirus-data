@@ -5,6 +5,6 @@ These processors are used to process files in the dataset. However, they are jus
 
 ## Descriptions:
 
-- Classifier.py is used for extracting data for each province from the dataset
-- Converter.py is used for converting the name from a language to another
-- Visualizer.py is used for visualizing the predicted data on a map or graphs
+- **Classifier.py** is used for extracting data for each province from the dataset
+- **Converter.py** is used for converting the name from a language to another
+- **Visualizer.py** is used for visualizing the predicted data on a map or graphs

@@ -1,6 +1,6 @@
 # Wuhan Coronavirus Data Collection
 
-## About the Data
+## About
 
 This repo is for sharing the data collected using a python crawler on dxy.com.
 
@@ -14,7 +14,7 @@ The data is formatted in csv and can be easily used by MATLAB, Excel, or other p
 
 For some reason, the suspected cases are not displayed for each city and province on dxy.com. Therefore, the suspected count is always 0, which means it is meaningless. 
 
-## Processing the Data
+## Processing
 
 I used the the crawler and data for my own modeling with Python and MATLAB. I also used other python program to process the data in order to use them in different analysis. 
 
